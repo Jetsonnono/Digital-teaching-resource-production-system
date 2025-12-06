@@ -1,0 +1,5 @@
+{
+  "name": "EduGenius AI Studio",
+  "description": "A multimodal digital teaching resource creation system powered by Gemini 2.5. Generate lesson plans, quizzes, and analyze educational media instantly.",
+  "requestFramePermissions": []
+}
